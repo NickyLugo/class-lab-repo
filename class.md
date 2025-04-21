@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Nicky Albany Lugo Batalla]  
+- Certification: [Meta Android Developer Professional]  
 
 ## Instructions
 Please replace the placeholders with your details:
